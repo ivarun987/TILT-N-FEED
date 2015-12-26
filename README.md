@@ -28,5 +28,6 @@ Thingspeak is used as when the receiver receives the signal, the arduino fetches
 
 There are many more adaptations available with more and more resources.
 
-Pomotional video can be found here: https://www.youtube.com/watch?v=_lGi-aSByAE 
+Pomotional video can be found here: https://www.youtube.com/watch?v=_lGi-aSByAE
+
 Technical video can be found here: https://www.youtube.com/watch?v=V-xSGFIBDLY
